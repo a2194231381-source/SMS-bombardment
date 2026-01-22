@@ -44,7 +44,7 @@
   X-Content-Type-Options: nosniff
 
 # 代理接口 - 不缓存
-/api/*
+/proxy
   Cache-Control: no-store, no-cache, must-revalidate
   X-Content-Type-Options: nosniff
 
